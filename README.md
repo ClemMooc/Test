@@ -6,3 +6,7 @@ I've made a small change regarding the code. Firstly, I have implemented a test 
 
 
 Cheers!
+
+
+
+This is the second test.
